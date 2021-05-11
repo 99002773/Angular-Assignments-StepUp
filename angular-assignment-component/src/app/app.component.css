@@ -1,0 +1,16 @@
+.header{
+    background-color: rgb(3, 3, 105);
+    color: white;
+}
+.title{
+    padding-left: 5%;
+}
+.tabs{
+    float: right;
+    padding-left: 70%;
+    
+    
+}
+.tabs a{
+    color: white;
+}
